@@ -1,1 +1,3 @@
-#git
+# Git Project
+
+updating the README
